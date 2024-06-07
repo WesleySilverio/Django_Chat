@@ -12,6 +12,10 @@ To create this chat the programming languages used were:
 **3**) AJAX - Produced the functionality of real time chat, getting the information of users and forwarding to the database.
  All this to maintain all messages visible and updated at the chat. 
 
+## Apperance and Functionality
+<img src = "/Pictures/Enter_room.png">
+<img src = "/Pictures/Chat_interface.png">
+
 
 
 
